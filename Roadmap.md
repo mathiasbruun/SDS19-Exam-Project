@@ -9,9 +9,13 @@
 - [ ] Tentative modelling
 - [ ] Discuss and define project scope
   - Minority Report: Ethics
+- [ ] Clear project scope with TA
 - [ ] Write project description
 
 ### Execution
 - [ ] Actual modelling
 - [ ] Refine models
 - [ ] Write report
+
+### Evaluation
+- [ ] Crack open a cold beer
