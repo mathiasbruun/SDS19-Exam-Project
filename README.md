@@ -14,10 +14,10 @@ A simple prediction model leaves us unable to uncover the underlying causal mech
 The majority of our data is collected through the UK police API, found [here](https://data.police.uk).
 
 #### Literature Review
-1. Asaro, P. M. (2019), ["AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care"](https://ieeexplore-ieee-org.ep.fjernadgang.kb.dk/document/8733937) in *IEEE Technology and Society Magazine* (vol. 38, no. 2), pp. 40-53.
+1. Asaro, P. M. (2019). ["AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care"](https://ieeexplore-ieee-org.ep.fjernadgang.kb.dk/document/8733937) in *IEEE Technology and Society Magazine* (vol. 38, no. 2), pp. 40-53.
 
-2. Egbert, S. & M. Leese (2018), ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
+2. Egbert, S. & M. Leese (2018). ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
 
-3. Kelion, L. (2019), ["*Crime prediction software 'adopted by 14 UK police forces'*"](https://www.bbc.com/news/technology-47118229). London: BBC.
+3. Kelion, L. (2019). ["*Crime prediction software 'adopted by 14 UK police forces'*"](https://www.bbc.com/news/technology-47118229). London: BBC.
 
-4. Khan, J. R. et al. (2019), ["PREDICTIVE POLICING: A Machine Learning Approach to Predict and Control Crimes in Metropolitan Cities"](https://doaj.org/article/0f8abfec63aa4bb6b6c296a894f39c71) in *University of Sindh Journal of Information and Communication Technology* (vol. 3, no. 1), pp. 17-26.
+4. Khan, J. R. et al. (2019). ["PREDICTIVE POLICING: A Machine Learning Approach to Predict and Control Crimes in Metropolitan Cities"](https://doaj.org/article/0f8abfec63aa4bb6b6c296a894f39c71) in *University of Sindh Journal of Information and Communication Technology* (vol. 3, no. 1), pp. 17-26.
