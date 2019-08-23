@@ -4,6 +4,8 @@
 - [X] Open GitHub repo
 - [X] Initial scraping
 - [ ] Localise and merge new data onto existing dataset
+  - Local authorities
+  - Mean income
 - [X] Exploratory plots
 - [ ] Data cleansing
 - [X] Tentative modelling
@@ -15,6 +17,7 @@
 ### Execution
 - [ ] Actual plotting
   - UK heatmap
+  - UK heatmap (proportions)
 - [ ] Actual modelling
 - [ ] Refine models
 - [ ] Write report
