@@ -5,8 +5,9 @@
 - [X] Initial scraping
 - [ ] Localise and merge new data onto existing dataset
   - ~~Time~~
-  - Local authorities
+  - ~~Local authorities~~
   - Mean income
+  - Merge all datasets
 - [X] Exploratory plots
 - [ ] Data cleansing
 - [X] Tentative modelling
@@ -18,7 +19,7 @@
 ### Execution
 - [ ] Actual plotting
   - ~~UK heatmaps~~
-  - Proportional UK heatmap (LA codes)
+  - ~~Proportional UK heatmap (LA codes)~~
 - [ ] Actual modelling
 - [ ] Refine models
 - [ ] Write report
