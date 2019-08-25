@@ -20,6 +20,7 @@
 - [ ] Actual plotting
   - ~~UK heatmaps~~
   - ~~Proportional UK heatmap (LA codes)~~
+  - Select and refine descriptive seaborn plots
 - [ ] Actual modelling
 - [ ] Refine models
 - [ ] Write report
