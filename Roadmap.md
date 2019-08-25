@@ -14,7 +14,7 @@
 - [X] Discuss and define project scope
   - ~~Minority Report: Ethics~~
 - [X] Clear project scope with TA
-- [ ] Write project description
+- [X] Write project description
 
 ### Execution
 - [ ] Actual plotting
