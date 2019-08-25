@@ -1,0 +1,22 @@
+**Project outline**
+
+- (Abstract)
+- Introduction and literature review
+- Research question and design
+- Data
+	- Review of scraping log
+	- Descriptive plotting
+- Model building/selection
+	- Choice of classification model
+	- Cross-validation, tuning of hyperparameters
+	- Choice of regularisation
+	- Etc.
+- Results
+	- Model performance (+ confusion matrix, ROC, etc.)
+- Discussion
+	- Critical examination of low recall and possible explanations
+	- Possibilities for improving our model
+	- Ethical implications of predictive policing
+- Conclusion
+- References
+- (Appendix)
