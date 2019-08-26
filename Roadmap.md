@@ -7,10 +7,10 @@
   - ~~Time~~
   - ~~Local authorities~~
     - Update: Ensure that areas in Northern Ireland are not assigned to Scottish LA!
-  - Mean income
-  - Merge all datasets
+  - ~~Mean income~~
+  - ~~Merge all datasets~~
 - [X] Exploratory plots
-- [ ] Data cleansing
+- [X] Data cleansing
 - [X] Tentative modelling
 - [X] Discuss and define project scope
   - ~~Minority Report: Ethics~~
