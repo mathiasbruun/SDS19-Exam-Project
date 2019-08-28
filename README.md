@@ -16,7 +16,7 @@ The majority of our data is collected through the UK police API, found [here](ht
 #### Literature Review
 1. Asaro, P. M. (2019). ["AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care"](https://ieeexplore-ieee-org.ep.fjernadgang.kb.dk/document/8733937) in *IEEE Technology and Society Magazine* (vol. 38, no. 2), pp. 40-53.
 
-2. Egbert, S. & M. Leese (2018). ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
+2. Kaufmann, M., S. Egbert & M. Leese (2018). ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
 
 3. Kelion, L. (2019). ["*Crime prediction software 'adopted by 14 UK police forces'*"](https://www.bbc.com/news/technology-47118229). London: BBC.
 
