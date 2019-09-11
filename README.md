@@ -1,4 +1,4 @@
-# SDS19 Exam Project – Minority Report (pun intended)
+# SDS19 Exam Project – Reporting on Minorities
 
 *Repo for Social Data Science exam project – Group 33*
 
