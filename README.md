@@ -2,6 +2,8 @@
 
 *Repo for Social Data Science exam project – Group 33*
 
+[Click here to download the final research paper](https://github.com/mathiasbruun/SDS19-Exam-Project/raw/master/Reporting%20on%20Minorities%20–%20Final.pdf).
+
 #### Objective
 Using data gathered through the API of the UK police, we train a logistic regression model to predict the outcome of stop-and-searches of supsects based on various personal characteristics.
 
@@ -13,7 +15,7 @@ A simple prediction model leaves us unable to uncover the underlying causal mech
 #### Data
 The majority of our data is collected through the UK police API, found [here](https://data.police.uk).
 
-#### Literature Review
+#### Preliminary literature Review
 1. Asaro, P. M. (2019). ["AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care"](https://ieeexplore-ieee-org.ep.fjernadgang.kb.dk/document/8733937) in *IEEE Technology and Society Magazine* (vol. 38, no. 2), pp. 40-53.
 
 2. Kaufmann, M., S. Egbert & M. Leese (2018). ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
