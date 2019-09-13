@@ -5,7 +5,7 @@
 [Click here to download the final research paper](https://github.com/mathiasbruun/SDS19-Exam-Project/raw/master/Reporting%20on%20Minorities%20–%20Final.pdf).
 
 #### Objective
-Using data gathered through the API of the UK police, we train a logistic regression model to predict the outcome of stop-and-searches of supsects based on various personal characteristics.
+Using data gathered through the API of the UK police, we train a logistic regression model to predict the outcome of stop-and-searches of suspects based on various personal characteristics.
 
 #### Discussion of ethical implications
 We discuss a variation of the conundrum posed by the movie [*Minority Report* (2002)](https://www.imdb.com/title/tt0181689/): is it ethically defensible to use prediction models in criminal investigations?
