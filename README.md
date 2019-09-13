@@ -15,7 +15,7 @@ A simple prediction model leaves us unable to uncover the underlying causal mech
 #### Data
 The majority of our data is collected through the UK police API, found [here](https://data.police.uk).
 
-#### Preliminary literature Review
+#### Preliminary literature review
 1. Asaro, P. M. (2019). ["AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care"](https://ieeexplore-ieee-org.ep.fjernadgang.kb.dk/document/8733937) in *IEEE Technology and Society Magazine* (vol. 38, no. 2), pp. 40-53.
 
 2. Kaufmann, M., S. Egbert & M. Leese (2018). ["Predictive Policing and the Politics of Patterns"](https://academic-oup-com.ep.fjernadgang.kb.dk/bjc/article/59/3/674/5233371) in *The British Journal of Criminology* (vol. 59, no. 3), pp. 674-92.
